@@ -26,7 +26,7 @@ const handelSumbit = (event) => {
     }
 
 
-    if (name.length <    5) {
+    if (name.length <5) {
       alert(" Name must be at least 5 characters long");
       return;
     }
